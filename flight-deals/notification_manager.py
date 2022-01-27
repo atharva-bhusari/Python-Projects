@@ -23,4 +23,4 @@ class NotificationManager:
             to=TWILIO_VERIFIED_NUMBER,
         )
         # Prints if successfully sent.
-        print(message.sid)
+        #print(message.sid)
